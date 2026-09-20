@@ -1,0 +1,5 @@
+/target
+/.repomind
+*.rs.bk
+.env
+.DS_Store
